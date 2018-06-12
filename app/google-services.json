@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "554041620863",
+    "firebase_url": "https://loginapp-379f4.firebaseio.com",
+    "project_id": "loginapp-379f4",
+    "storage_bucket": "loginapp-379f4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:554041620863:android:4ad3429e093490a8",
+        "android_client_info": {
+          "package_name": "com.prime.optimus.loginapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "554041620863-89avqgu2s7fp7vu1mh32jqcchv95usuc.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.prime.optimus.loginapp",
+            "certificate_hash": "7cefae60a408b1695c0888a2eaf870307078f659"
+          }
+        },
+        {
+          "client_id": "554041620863-qiq9c059v1smtg71lgquob67gih7qsb5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBcfCw_spHUsNkJQKOeptZFdKHw3Hsidzs"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "554041620863-qiq9c059v1smtg71lgquob67gih7qsb5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
